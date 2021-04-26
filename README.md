@@ -1,1 +1,1 @@
-[![Praneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneetrohida&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Praneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneetrohida&count_private=true)
